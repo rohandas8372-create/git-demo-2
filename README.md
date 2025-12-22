@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first git respository
 <br>
-author-rohan das(rohan)
+author-rohan das(apna)
